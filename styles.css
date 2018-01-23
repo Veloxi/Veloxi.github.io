@@ -1,21 +1,22 @@
 body {
-    background-color: lightgrey;
+  background-color: lightgrey;
 }
 
 h3 {
-    color: darkblue;
-    text-align: center;
+  color: darkblue;
+  text-align: center;
 }
 
 li {
-    font-family: verdana;
-    font-size: 20px;
-    text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
 }
 #projectlist {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid black;
-    margin: 0;
-    align-self: center;
+  float: left;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid black;
+
+  margin: 0;
 }
