@@ -3,7 +3,7 @@ body {
 }
 
 h3 {
-    color: blue;
+    color: darkblue;
     text-align: center;
 }
 
@@ -11,4 +11,10 @@ li {
     font-family: verdana;
     font-size: 20px;
     text-align: center;
+}
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
 }
