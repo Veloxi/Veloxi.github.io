@@ -21,6 +21,12 @@ li {
   color: white;
   margin: 0;
 }
+
+#Desktop {
+  width: auto;
+  height: auto;
+}
+
 a{
   color: lightgrey;
 }
